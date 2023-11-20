@@ -1,6 +1,6 @@
 ### Olá! Eu sou João Victor 
 
-### Uma pessoa proativa e curiosa com formação em Análise e Desenvolvimento de Sistemas. Atualmente estou fazendo um bootcamp para aprimorar minhas habilidades e entrar de vez no mercado de trabalho. Além disso, tenho experiência com atendimento ao público, o que me ajudou a desenvolver minhas habilidades de soft skills. Atualmente, resido em Portugal e estou em busca de novos desafios e oportunidades para o crescimento pessoal e profissional.  🖐️
+### Olá! Eu sou João Victor, uma pessoa proativa e curiosa com formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou trilhando minha carreira como Front-End Junior, com foco em React e JavaScript. Com uma paixão pela construção de interfaces intuitivas e experiências de usuário envolventes, estou sempre buscando aprimorar minhas habilidades e aprender as últimas tendências no mundo do desenvolvimento web. Comprometido com a entrega de soluções de alta qualidade, estou animado para enfrentar desafios e contribuir para projetos inovadores. Conecte-se comigo para explorarmos oportunidades de colaboração e crescimento profissional!.  🖐️
 
 
 
